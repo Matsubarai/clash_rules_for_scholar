@@ -20,7 +20,7 @@
 
 **scholar.yaml**: 一些学术网站
 
-- [https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml)
+- [https://cdn.jsdelivr.net/gh/Matsubarai/clash_rules_for_scholar@0.1/rules/scholar.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml)
 
 
 
