@@ -1,4 +1,7 @@
 # clash_rules_for_scholar
+
+### NOTE: We fix this YAML config behavior from `classical` to `domain` now. It's working in Clash Verge.
+
 提供了一些和学术相关的网址以方便分流。对于大部分学术网站来说，需要使用订阅了相关权限的学校 ip 访问才能获得完整的内容。
 
 
@@ -18,18 +21,6 @@
 **scholar.yaml**: 一些学术网站
 
 - [https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml)
-
-**dev.yaml**: 一些常用的开发网站，建议搭配 `github.com` 测速使用
-
-- [https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/dev.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/dev.yaml)
-
-**cdn.yaml**: 常见的 CDN 站点，建议搭配大流量代理使用
-
-- [https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/cdn.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/cdn.yaml)
-
-**video.yaml**: 常见的视频网站，建议搭配大流量代理使用
-
-- [https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/video.yaml](https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/video.yaml)
 
 
 
