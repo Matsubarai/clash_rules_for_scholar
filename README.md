@@ -1,6 +1,6 @@
 # clash_rules_for_scholar
 
-### NOTE: We fix this YAML config behavior from `classical` to `domain` now. It's working in Clash Verge.
+### NOTE: We fix this YAML config behavior from `classical` to `domain` now. It's working on Clash Verge.
 
 提供了一些和学术相关的网址以方便分流。对于大部分学术网站来说，需要使用订阅了相关权限的学校 ip 访问才能获得完整的内容。
 
