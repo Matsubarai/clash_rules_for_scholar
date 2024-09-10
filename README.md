@@ -46,11 +46,11 @@
 ```yaml
 rule-providers:
   scholar:
-    behavior: "classical"
+    behavior: domain
     type: http
-    url: "https://cdn.jsdelivr.net/gh/nerdneilsfield/clash_rules_for_scholar@0.1/rules/scholar.yaml"
-    interval: 3600
-    path: ./scholar.yaml
+    url: "https://cdn.jsdelivr.net/gh/Matsubarai/clash_rules_for_scholar@0.1/rules/scholar.yaml"
+    interval: 86400
+    path: ./ruleset/scholar.yaml
 ```
 
 
@@ -58,6 +58,6 @@ rule-providers:
 在 `rules` 下面添加:
 
 ```yaml
-- RULE-SET, scholar, SCHOLAR
+- RULE-SET, scholar, DIRECT
 ```
 
